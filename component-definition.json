@@ -167,8 +167,8 @@
                 "template": {
                   "name": "Quote",
                   "model": "quote",
-                  "quote": "<p>This is a Quote!</p>",
-                  "author": "Vicky"
+                  "quote": "<p>Be yourself; everyone else is already taken.</p>",
+                  "author": "Oscar Wilde"
                 }
               }
             }
