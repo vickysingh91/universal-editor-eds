@@ -167,8 +167,8 @@
                 "template": {
                   "name": "Quote",
                   "model": "quote",
-                  "quote": "<p>Be yourself; everyone else is already taken.</p>",
-                  "author": "Oscar Wilde"
+                  "quote": "<p>Carpe diem.</p>",
+                  "author": "Horace"
                 }
               }
             }
